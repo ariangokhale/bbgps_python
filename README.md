@@ -1,6 +1,6 @@
 # bluebike-routing-app
 
-#### Application that allows a user to route from one Bluebike station to one close to their destination. Built with Python (Flask back-end) and JavaScript/HTML/CSS (Jinja2 front-end). Mapping/Routing information is retrieved from the Google Maps API.
+#### Application that allows a user to route from one Bluebike station to one close to their destination. Built with Python (Flask back-end) and JavaScript/HTML/CSS (Jinja2 front-end). Mapping/Routing information is retrieved from the Google Maps API. Map is also interactive, so can be zoomed in/out as needed. 
 
 #### The station data is based on the csv file retrieved from https://www.bluebikes.com/system-data (station location data). 
 
