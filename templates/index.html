@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bluebike Route</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body class="index-body">
+    <div class="center-div">
+        <h1 class="app-title">BlueBike Directions</h1>
+        <h3 class="description"> Navigate to a Bluebike station near your destination</h3>
+        <form method="POST" action="/direction_home">
+            <div class="form-group">
+                <!--  <label for="input_variable">Enter a destination: </label> -->
+                <input type="text" name="input_variable" id="input_variable" placeholder="Enter a destination">
+                <input class="input-button" type="submit" value="Submit">
+            </div>
+        </form>
+    </div>
+</body>
+</html>
