@@ -7,3 +7,4 @@
 ### Use Case
 #### For example, if starting from Boston Common BlueBike station and the destination is Harvard University, what is the closest station to Harvard a user can dock their bike? This application displays the location and the directions/routing to get the station via GoogleMaps API. 
 
+<img width="1403" alt="Screenshot 2023-10-31 at 7 08 57 PM" src="https://github.com/ariangokhale/bluebike-routing-app/assets/55399896/4d69b67a-2892-43aa-8ae1-d78bf3691319">
